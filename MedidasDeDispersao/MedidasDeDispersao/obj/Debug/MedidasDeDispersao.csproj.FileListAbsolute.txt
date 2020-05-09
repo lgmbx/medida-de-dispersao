@@ -1,0 +1,14 @@
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\bin\Debug\MedidasDeDispersao.exe.config
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\bin\Debug\MedidasDeDispersao.exe
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\bin\Debug\MedidasDeDispersao.pdb
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.csprojAssemblyReference.cache
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.Form1.resources
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.Properties.Resources.resources
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.csproj.GenerateResource.cache
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.csproj.CoreCompileInputs.cache
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.exe
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.pdb
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\bin\Debug\MedidasDeDispersao.exe.manifest
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\bin\Debug\MedidasDeDispersao.application
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.exe.manifest
+D:\fatec\estatistica\MedidasDeDispersao\MedidasDeDispersao\obj\Debug\MedidasDeDispersao.application
