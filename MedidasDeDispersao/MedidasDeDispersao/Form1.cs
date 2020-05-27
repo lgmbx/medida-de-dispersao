@@ -99,7 +99,7 @@ namespace MedidasDeDispersao {
         private void button2_Click(object sender, EventArgs e) {
             MessageBox.Show("Os numeros devem ser separados por apenas um espaçamento\n" +
                 "Apenas numeros e virgula devem ser digitados no campo\n" +
-                "Os numeros da amostra serão organizados em ROL automaticamente" +
+                "Os numeros da amostra serão organizados em ROL automaticamente\n" +
                 "entrada: 1,3 2,4 2 9 7,6\n" +
                 "saida: 1,3 2 2,4 7,6 9\n" +
                 "\nCaso haja necessidade de adicionar um numero após o calculo ja ter sido efetuado, "+
@@ -116,5 +116,7 @@ namespace MedidasDeDispersao {
             lblVariancia.ResetText();
             calc = false;
         }
+
+        
     }
 }

@@ -39,7 +39,7 @@
             // 
             // TextBox
             // 
-            this.TextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.TextBox.Font = new System.Drawing.Font("Malgun Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TextBox.Location = new System.Drawing.Point(17, 17);
             this.TextBox.Multiline = true;
             this.TextBox.Name = "TextBox";
@@ -171,7 +171,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(438, 285);
             this.Controls.Add(this.lblAmplitude);
             this.Controls.Add(this.Limpar);
@@ -185,9 +185,11 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Calcular);
             this.Controls.Add(this.TextBox);
+            this.MaximumSize = new System.Drawing.Size(454, 324);
+            this.MinimumSize = new System.Drawing.Size(454, 324);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Medida de dispersão";
+            this.Text = "Calculadora de medida de dispersao";
             this.ResumeLayout(false);
             this.PerformLayout();
 
