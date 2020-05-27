@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MedidasDeDispersao.exe" size="28656">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MedidasDeDispersao.exe" size="30192">
       <assemblyIdentity name="MedidasDeDispersao" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3pUEjQc5kb5pZkCYHEiKPmP3eukW/SavPhfzhXPxla0=</dsig:DigestValue>
+        <dsig:DigestValue>wjRWo0LrMReGex9JdDQqIn8SgPfMQiNiglTaOr3rG1o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
