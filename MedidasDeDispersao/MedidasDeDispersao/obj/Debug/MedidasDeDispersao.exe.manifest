@@ -42,17 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MedidasDeDispersao.exe" size="30192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MedidasDeDispersao.exe" size="35312">
       <assemblyIdentity name="MedidasDeDispersao" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>K2h2rgBlKsTruawBnN2dyeFClRc9IpyvTzLDWJwFSiU=</dsig:DigestValue>
+        <dsig:DigestValue>jpsWyBWy9e616OwfYlGbOh5rhJgb19nEE9WrK8IDJsg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="11accounting_102063.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6tihVySU9GTdPicQ1JhLiPMRqZvmHd790ahPJ8Lq2Qw=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="MedidasDeDispersao.exe.config" size="189">
     <hash>
       <dsig:Transforms>
